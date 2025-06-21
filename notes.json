@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Broken\/Chipped\/Cut"
+    },
+    {
+      "id": 1,
+      "name": "Dried Cherry\/Pod"
+    },
+    {
+      "id": 2,
+      "name": "Floater"
+    },
+    {
+      "id": 3,
+      "name": "Foreign Matter"
+    },
+    {
+      "id": 4,
+      "name": "Full Black"
+    },
+    {
+      "id": 5,
+      "name": "Full Sour"
+    },
+    {
+      "id": 6,
+      "name": "Fungus Damaged"
+    },
+    {
+      "id": 7,
+      "name": "Hull\/Husk"
+    },
+    {
+      "id": 8,
+      "name": "Immature\/Unripe"
+    },
+    {
+      "id": 9,
+      "name": "Parchment\/Pergamino"
+    },
+    {
+      "id": 10,
+      "name": "Partial Black"
+    },
+    {
+      "id": 11,
+      "name": "Partial Sour"
+    },
+    {
+      "id": 12,
+      "name": "Severe Insect Damage"
+    },
+    {
+      "id": 13,
+      "name": "Shell"
+    },
+    {
+      "id": 14,
+      "name": "Slight Insect Damage"
+    },
+    {
+      "id": 15,
+      "name": "Withered"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
